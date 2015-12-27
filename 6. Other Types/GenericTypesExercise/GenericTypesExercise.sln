@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStackExample", "CustomStackExample\CustomStackExample.csproj", "{5FC69B07-EC89-4435-B49A-2A0C4E9012CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomListExample", "CustomListExample\CustomListExample.csproj", "{5777E2FA-C0BC-4387-8D6B-EC3F7781F975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC69B07-EC89-4435-B49A-2A0C4E9012CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC69B07-EC89-4435-B49A-2A0C4E9012CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC69B07-EC89-4435-B49A-2A0C4E9012CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC69B07-EC89-4435-B49A-2A0C4E9012CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5777E2FA-C0BC-4387-8D6B-EC3F7781F975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5777E2FA-C0BC-4387-8D6B-EC3F7781F975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5777E2FA-C0BC-4387-8D6B-EC3F7781F975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5777E2FA-C0BC-4387-8D6B-EC3F7781F975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
